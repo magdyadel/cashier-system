@@ -1,0 +1,212 @@
+D:\corses\kero Adel Project\CASHIR SYSTEM\CASHIR SYSTEM\CASHIR SYSTEM\bin\Debug\CASHIR SYSTEM.exe.config
+D:\corses\kero Adel Project\CASHIR SYSTEM\CASHIR SYSTEM\CASHIR SYSTEM\bin\Debug\CASHIR SYSTEM.exe
+D:\corses\kero Adel Project\CASHIR SYSTEM\CASHIR SYSTEM\CASHIR SYSTEM\bin\Debug\CASHIR SYSTEM.pdb
+D:\corses\kero Adel Project\CASHIR SYSTEM\CASHIR SYSTEM\CASHIR SYSTEM\bin\Debug\EntityFramework.dll
+D:\corses\kero Adel Project\CASHIR SYSTEM\CASHIR SYSTEM\CASHIR SYSTEM\bin\Debug\EntityFramework.SqlServer.dll
+D:\corses\kero Adel Project\CASHIR SYSTEM\CASHIR SYSTEM\CASHIR SYSTEM\bin\Debug\EntityFramework.xml
+D:\corses\kero Adel Project\CASHIR SYSTEM\CASHIR SYSTEM\CASHIR SYSTEM\bin\Debug\EntityFramework.SqlServer.xml
+D:\corses\kero Adel Project\CASHIR SYSTEM\CASHIR SYSTEM\CASHIR SYSTEM\obj\Debug\CASHIR SYSTEM.csprojAssemblyReference.cache
+D:\corses\kero Adel Project\CASHIR SYSTEM\CASHIR SYSTEM\CASHIR SYSTEM\obj\Debug\CASHIR_SYSTEM.Properties.Resources.resources
+D:\corses\kero Adel Project\CASHIR SYSTEM\CASHIR SYSTEM\CASHIR SYSTEM\obj\Debug\CASHIR SYSTEM.csproj.GenerateResource.cache
+D:\corses\kero Adel Project\CASHIR SYSTEM\CASHIR SYSTEM\CASHIR SYSTEM\obj\Debug\CASHIR SYSTEM.csproj.CoreCompileInputs.cache
+D:\corses\kero Adel Project\CASHIR SYSTEM\CASHIR SYSTEM\CASHIR SYSTEM\obj\Debug\CASHIR SYSTEM.csproj.CopyComplete
+D:\corses\kero Adel Project\CASHIR SYSTEM\CASHIR SYSTEM\CASHIR SYSTEM\obj\Debug\CASHIR SYSTEM.exe
+D:\corses\kero Adel Project\CASHIR SYSTEM\CASHIR SYSTEM\CASHIR SYSTEM\obj\Debug\CASHIR SYSTEM.pdb
+D:\corses\kero Adel Project\CASHIR SYSTEM\CASHIR SYSTEM\CASHIR SYSTEM\obj\Debug\CASHIR_SYSTEM.Migrations.firstrun.resources
+D:\corses\kero Adel Project\CASHIR SYSTEM\CASHIR SYSTEM\CASHIR SYSTEM\obj\Debug\CASHIR_SYSTEM.Form1.resources
+D:\corses\kero Adel Project\CASHIR SYSTEM\CASHIR SYSTEM\CASHIR SYSTEM\obj\Debug\CASHIR_SYSTEM.Areas.Clients.AddClientForm.resources
+D:\corses\kero Adel Project\CASHIR SYSTEM\CASHIR SYSTEM\CASHIR SYSTEM\obj\Debug\CASHIR_SYSTEM.Migrations.client.resources
+D:\corses\kero Adel Project\CASHIR SYSTEM\CASHIR SYSTEM\CASHIR SYSTEM\obj\Debug\CASHIR_SYSTEM.Areas.Clients.ClientSearchForm.resources
+D:\corses\kero Adel Project\CASHIR SYSTEM\CASHIR SYSTEM\CASHIR SYSTEM\obj\Debug\CASHIR_SYSTEM.Areas.Clients.EditClientForm.resources
+D:\corses\kero Adel Project\CASHIR SYSTEM\CASHIR SYSTEM\CASHIR SYSTEM\obj\Debug\CASHIR_SYSTEM.Areas.PaiedAndRemainingMonr.Late_paymentOrderMony.resources
+D:\corses\kero Adel Project\CASHIR SYSTEM\CASHIR SYSTEM\CASHIR SYSTEM\obj\Debug\CASHIR_SYSTEM.Migrations.paiedandremaning.resources
+D:\corses\kero Adel Project\CASHIR SYSTEM\CASHIR SYSTEM\CASHIR SYSTEM\bin\Debug\Mina.UI_WinForm.dll
+D:\corses\kero Adel Project\CASHIR SYSTEM\CASHIR SYSTEM\CASHIR SYSTEM\obj\Debug\CASHIR_SYSTEM.Areas.PaiedAndRemainingMonr.AllLatrrPaimentClients.resources
+D:\corses\kero Adel Project\CASHIR SYSTEM\CASHIR SYSTEM\CASHIR SYSTEM\obj\Debug\CASHIR_SYSTEM.Areas.PaiedAndRemainingMonr.LaterPaymentOrderDetails.resources
+D:\corses\kero Adel Project\CASHIR SYSTEM\CASHIR SYSTEM\CASHIR SYSTEM\obj\Debug\CASHIR_SYSTEM.Migrations.ff.resources
+D:\corses\kero Adel Project\CASHIR SYSTEM\CASHIR SYSTEM\CASHIR SYSTEM\obj\Debug\CASHIR_SYSTEM.Areas.PaiedAndRemainingMonr.payMonyPart.resources
+D:\corses\kero Adel Project\CASHIR SYSTEM\CASHIR SYSTEM\CASHIR SYSTEM\obj\Debug\CASHIR_SYSTEM.Migrations.cc.resources
+D:\corses\kero Adel Project\CASHIR SYSTEM\CASHIR SYSTEM\CASHIR SYSTEM\obj\Debug\CASHIR_SYSTEM.Migrations.mony.resources
+D:\corses\kero Adel Project\CASHIR SYSTEM\CASHIR SYSTEM\CASHIR SYSTEM\obj\Debug\CASHIR_SYSTEM.Areas.PaiedAndRemainingMonr.EditClientinfo.resources
+D:\corses\kero Adel Project\CASHIR SYSTEM\CASHIR SYSTEM\CASHIR SYSTEM\obj\Debug\CASHIR_SYSTEM.Areas.PaiedAndRemainingMonr.solfaClientForm.resources
+D:\corses\kero Adel Project\CASHIR SYSTEM\CASHIR SYSTEM\CASHIR SYSTEM\obj\Debug\CASHIR_SYSTEM.Migrations.solfa.resources
+D:\corses\kero Adel Project\CASHIR SYSTEM\CASHIR SYSTEM\CASHIR SYSTEM\obj\Debug\CASHIR_SYSTEM.Areas.PaiedAndRemainingMonr.AllsolfaClient.resources
+D:\corses\kero Adel Project\CASHIR SYSTEM\CASHIR SYSTEM\CASHIR SYSTEM\obj\Debug\CASHIR_SYSTEM.Areas.PaiedAndRemainingMonr.solfaDetailsClientForm.resources
+D:\corses\kero Adel Project\CASHIR SYSTEM\CASHIR SYSTEM\CASHIR SYSTEM\obj\Debug\CASHIR_SYSTEM.Areas.PaiedAndRemainingMonr.paiedSolfaPartForm.resources
+D:\corses\kero Adel Project\CASHIR SYSTEM\CASHIR SYSTEM\CASHIR SYSTEM\obj\Debug\CASHIR_SYSTEM.Areas.PaiedAndRemainingMonr.AddNewSolfa.resources
+D:\corses\kero Adel Project\CASHIR SYSTEM\CASHIR SYSTEM\CASHIR SYSTEM\obj\Debug\CASHIR_SYSTEM.Areas.PaiedAndRemainingMonr.EditSolfaClientForm.resources
+D:\corses\kero Adel Project\CASHIR SYSTEM\CASHIR SYSTEM\CASHIR SYSTEM\obj\Debug\CASHIR_SYSTEM.Migrations.login.resources
+D:\corses\kero Adel Project\CASHIR SYSTEM\CASHIR SYSTEM\CASHIR SYSTEM\obj\Debug\CASHIR_SYSTEM.LoginForm.resources
+D:\corses\kero Adel Project\CASHIR SYSTEM\CASHIR SYSTEM\CASHIR SYSTEM\obj\Debug\CASHIR_SYSTEM.Migrations.login2.resources
+D:\corses\kero Adel Project\CASHIR SYSTEM\CASHIR SYSTEM\CASHIR SYSTEM\CASHIR SYSTEM\bin\Debug\CASHIR SYSTEM.exe.config
+D:\corses\kero Adel Project\CASHIR SYSTEM\CASHIR SYSTEM\CASHIR SYSTEM\CASHIR SYSTEM\bin\Debug\CASHIR SYSTEM.exe
+D:\corses\kero Adel Project\CASHIR SYSTEM\CASHIR SYSTEM\CASHIR SYSTEM\CASHIR SYSTEM\bin\Debug\CASHIR SYSTEM.pdb
+D:\corses\kero Adel Project\CASHIR SYSTEM\CASHIR SYSTEM\CASHIR SYSTEM\CASHIR SYSTEM\bin\Debug\EntityFramework.dll
+D:\corses\kero Adel Project\CASHIR SYSTEM\CASHIR SYSTEM\CASHIR SYSTEM\CASHIR SYSTEM\bin\Debug\EntityFramework.SqlServer.dll
+D:\corses\kero Adel Project\CASHIR SYSTEM\CASHIR SYSTEM\CASHIR SYSTEM\CASHIR SYSTEM\bin\Debug\Mina.UI_WinForm.dll
+D:\corses\kero Adel Project\CASHIR SYSTEM\CASHIR SYSTEM\CASHIR SYSTEM\CASHIR SYSTEM\bin\Debug\EntityFramework.xml
+D:\corses\kero Adel Project\CASHIR SYSTEM\CASHIR SYSTEM\CASHIR SYSTEM\CASHIR SYSTEM\bin\Debug\EntityFramework.SqlServer.xml
+D:\corses\kero Adel Project\CASHIR SYSTEM\CASHIR SYSTEM\CASHIR SYSTEM\CASHIR SYSTEM\obj\Debug\CASHIR_SYSTEM.Areas.Clients.AddClientForm.resources
+D:\corses\kero Adel Project\CASHIR SYSTEM\CASHIR SYSTEM\CASHIR SYSTEM\CASHIR SYSTEM\obj\Debug\CASHIR_SYSTEM.Areas.Clients.ClientSearchForm.resources
+D:\corses\kero Adel Project\CASHIR SYSTEM\CASHIR SYSTEM\CASHIR SYSTEM\CASHIR SYSTEM\obj\Debug\CASHIR_SYSTEM.Areas.Clients.EditClientForm.resources
+D:\corses\kero Adel Project\CASHIR SYSTEM\CASHIR SYSTEM\CASHIR SYSTEM\CASHIR SYSTEM\obj\Debug\CASHIR_SYSTEM.Areas.Meals.forms.AddCategory.resources
+D:\corses\kero Adel Project\CASHIR SYSTEM\CASHIR SYSTEM\CASHIR SYSTEM\CASHIR SYSTEM\obj\Debug\CASHIR_SYSTEM.Areas.Meals.forms.AddFoodItem.resources
+D:\corses\kero Adel Project\CASHIR SYSTEM\CASHIR SYSTEM\CASHIR SYSTEM\CASHIR SYSTEM\obj\Debug\CASHIR_SYSTEM.Areas.Order.AddOrder.resources
+D:\corses\kero Adel Project\CASHIR SYSTEM\CASHIR SYSTEM\CASHIR SYSTEM\CASHIR SYSTEM\obj\Debug\CASHIR_SYSTEM.Areas.Orders.OrderForms.AddSizeQtty.resources
+D:\corses\kero Adel Project\CASHIR SYSTEM\CASHIR SYSTEM\CASHIR SYSTEM\CASHIR SYSTEM\obj\Debug\CASHIR_SYSTEM.Areas.Orders.Tables.resources
+D:\corses\kero Adel Project\CASHIR SYSTEM\CASHIR SYSTEM\CASHIR SYSTEM\CASHIR SYSTEM\obj\Debug\CASHIR_SYSTEM.Areas.PaiedAndRemainingMonr.AddNewSolfa.resources
+D:\corses\kero Adel Project\CASHIR SYSTEM\CASHIR SYSTEM\CASHIR SYSTEM\CASHIR SYSTEM\obj\Debug\CASHIR_SYSTEM.Areas.PaiedAndRemainingMonr.AllLatrrPaimentClients.resources
+D:\corses\kero Adel Project\CASHIR SYSTEM\CASHIR SYSTEM\CASHIR SYSTEM\CASHIR SYSTEM\obj\Debug\CASHIR_SYSTEM.Areas.PaiedAndRemainingMonr.AllsolfaClient.resources
+D:\corses\kero Adel Project\CASHIR SYSTEM\CASHIR SYSTEM\CASHIR SYSTEM\CASHIR SYSTEM\obj\Debug\CASHIR_SYSTEM.Areas.PaiedAndRemainingMonr.EditClientinfo.resources
+D:\corses\kero Adel Project\CASHIR SYSTEM\CASHIR SYSTEM\CASHIR SYSTEM\CASHIR SYSTEM\obj\Debug\CASHIR_SYSTEM.Areas.PaiedAndRemainingMonr.EditSolfaClientForm.resources
+D:\corses\kero Adel Project\CASHIR SYSTEM\CASHIR SYSTEM\CASHIR SYSTEM\CASHIR SYSTEM\obj\Debug\CASHIR_SYSTEM.Areas.PaiedAndRemainingMonr.LaterPaymentOrderDetails.resources
+D:\corses\kero Adel Project\CASHIR SYSTEM\CASHIR SYSTEM\CASHIR SYSTEM\CASHIR SYSTEM\obj\Debug\CASHIR_SYSTEM.Areas.PaiedAndRemainingMonr.Late_paymentOrderMony.resources
+D:\corses\kero Adel Project\CASHIR SYSTEM\CASHIR SYSTEM\CASHIR SYSTEM\CASHIR SYSTEM\obj\Debug\CASHIR_SYSTEM.Areas.PaiedAndRemainingMonr.paiedSolfaPartForm.resources
+D:\corses\kero Adel Project\CASHIR SYSTEM\CASHIR SYSTEM\CASHIR SYSTEM\CASHIR SYSTEM\obj\Debug\CASHIR_SYSTEM.Areas.PaiedAndRemainingMonr.payMonyPart.resources
+D:\corses\kero Adel Project\CASHIR SYSTEM\CASHIR SYSTEM\CASHIR SYSTEM\CASHIR SYSTEM\obj\Debug\CASHIR_SYSTEM.Areas.PaiedAndRemainingMonr.solfaClientForm.resources
+D:\corses\kero Adel Project\CASHIR SYSTEM\CASHIR SYSTEM\CASHIR SYSTEM\CASHIR SYSTEM\obj\Debug\CASHIR_SYSTEM.Areas.PaiedAndRemainingMonr.solfaDetailsClientForm.resources
+D:\corses\kero Adel Project\CASHIR SYSTEM\CASHIR SYSTEM\CASHIR SYSTEM\CASHIR SYSTEM\obj\Debug\CASHIR_SYSTEM.Form1.resources
+D:\corses\kero Adel Project\CASHIR SYSTEM\CASHIR SYSTEM\CASHIR SYSTEM\CASHIR SYSTEM\obj\Debug\CASHIR_SYSTEM.LoginForm.resources
+D:\corses\kero Adel Project\CASHIR SYSTEM\CASHIR SYSTEM\CASHIR SYSTEM\CASHIR SYSTEM\obj\Debug\CASHIR_SYSTEM.Migrations.cashir.resources
+D:\corses\kero Adel Project\CASHIR SYSTEM\CASHIR SYSTEM\CASHIR SYSTEM\CASHIR SYSTEM\obj\Debug\CASHIR_SYSTEM.Properties.Resources.resources
+D:\corses\kero Adel Project\CASHIR SYSTEM\CASHIR SYSTEM\CASHIR SYSTEM\CASHIR SYSTEM\obj\Debug\CASHIR SYSTEM.csproj.GenerateResource.cache
+D:\corses\kero Adel Project\CASHIR SYSTEM\CASHIR SYSTEM\CASHIR SYSTEM\CASHIR SYSTEM\obj\Debug\CASHIR SYSTEM.csproj.CoreCompileInputs.cache
+D:\corses\kero Adel Project\CASHIR SYSTEM\CASHIR SYSTEM\CASHIR SYSTEM\CASHIR SYSTEM\obj\Debug\CASHIR SYSTEM.csproj.CopyComplete
+D:\corses\kero Adel Project\CASHIR SYSTEM\CASHIR SYSTEM\CASHIR SYSTEM\CASHIR SYSTEM\obj\Debug\CASHIR SYSTEM.exe
+D:\corses\kero Adel Project\CASHIR SYSTEM\CASHIR SYSTEM\CASHIR SYSTEM\CASHIR SYSTEM\obj\Debug\CASHIR SYSTEM.pdb
+D:\corses\kero Adel Project\CASHIR SYSTEM\CASHIR SYSTEM\CASHIR SYSTEM\CASHIR SYSTEM\obj\Debug\CASHIR SYSTEM.csprojAssemblyReference.cache
+E:\Projects\New folder (2)\CASHIR SYSTEM\CASHIR SYSTEM\CASHIR SYSTEM\bin\Debug\CASHIR SYSTEM.exe.config
+E:\Projects\New folder (2)\CASHIR SYSTEM\CASHIR SYSTEM\CASHIR SYSTEM\bin\Debug\CASHIR SYSTEM.exe
+E:\Projects\New folder (2)\CASHIR SYSTEM\CASHIR SYSTEM\CASHIR SYSTEM\bin\Debug\CASHIR SYSTEM.pdb
+E:\Projects\New folder (2)\CASHIR SYSTEM\CASHIR SYSTEM\CASHIR SYSTEM\bin\Debug\EntityFramework.dll
+E:\Projects\New folder (2)\CASHIR SYSTEM\CASHIR SYSTEM\CASHIR SYSTEM\bin\Debug\EntityFramework.SqlServer.dll
+E:\Projects\New folder (2)\CASHIR SYSTEM\CASHIR SYSTEM\CASHIR SYSTEM\bin\Debug\Mina.UI_WinForm.dll
+E:\Projects\New folder (2)\CASHIR SYSTEM\CASHIR SYSTEM\CASHIR SYSTEM\bin\Debug\EntityFramework.xml
+E:\Projects\New folder (2)\CASHIR SYSTEM\CASHIR SYSTEM\CASHIR SYSTEM\bin\Debug\EntityFramework.SqlServer.xml
+E:\Projects\New folder (2)\CASHIR SYSTEM\CASHIR SYSTEM\CASHIR SYSTEM\obj\Debug\CASHIR SYSTEM.csprojAssemblyReference.cache
+E:\Projects\New folder (2)\CASHIR SYSTEM\CASHIR SYSTEM\CASHIR SYSTEM\obj\Debug\CASHIR_SYSTEM.Areas.Clients.AddClientForm.resources
+E:\Projects\New folder (2)\CASHIR SYSTEM\CASHIR SYSTEM\CASHIR SYSTEM\obj\Debug\CASHIR_SYSTEM.Areas.Clients.ClientSearchForm.resources
+E:\Projects\New folder (2)\CASHIR SYSTEM\CASHIR SYSTEM\CASHIR SYSTEM\obj\Debug\CASHIR_SYSTEM.Areas.Clients.EditClientForm.resources
+E:\Projects\New folder (2)\CASHIR SYSTEM\CASHIR SYSTEM\CASHIR SYSTEM\obj\Debug\CASHIR_SYSTEM.Areas.Meals.forms.AddCategory.resources
+E:\Projects\New folder (2)\CASHIR SYSTEM\CASHIR SYSTEM\CASHIR SYSTEM\obj\Debug\CASHIR_SYSTEM.Areas.Meals.forms.AddFoodItem.resources
+E:\Projects\New folder (2)\CASHIR SYSTEM\CASHIR SYSTEM\CASHIR SYSTEM\obj\Debug\CASHIR_SYSTEM.Areas.Order.AddOrder.resources
+E:\Projects\New folder (2)\CASHIR SYSTEM\CASHIR SYSTEM\CASHIR SYSTEM\obj\Debug\CASHIR_SYSTEM.Areas.Orders.OrderForms.AddSizeQtty.resources
+E:\Projects\New folder (2)\CASHIR SYSTEM\CASHIR SYSTEM\CASHIR SYSTEM\obj\Debug\CASHIR_SYSTEM.Areas.Orders.Tables.resources
+E:\Projects\New folder (2)\CASHIR SYSTEM\CASHIR SYSTEM\CASHIR SYSTEM\obj\Debug\CASHIR_SYSTEM.Areas.PaiedAndRemainingMonr.AddNewSolfa.resources
+E:\Projects\New folder (2)\CASHIR SYSTEM\CASHIR SYSTEM\CASHIR SYSTEM\obj\Debug\CASHIR_SYSTEM.Areas.PaiedAndRemainingMonr.AllLatrrPaimentClients.resources
+E:\Projects\New folder (2)\CASHIR SYSTEM\CASHIR SYSTEM\CASHIR SYSTEM\obj\Debug\CASHIR_SYSTEM.Areas.PaiedAndRemainingMonr.AllsolfaClient.resources
+E:\Projects\New folder (2)\CASHIR SYSTEM\CASHIR SYSTEM\CASHIR SYSTEM\obj\Debug\CASHIR_SYSTEM.Areas.PaiedAndRemainingMonr.EditClientinfo.resources
+E:\Projects\New folder (2)\CASHIR SYSTEM\CASHIR SYSTEM\CASHIR SYSTEM\obj\Debug\CASHIR_SYSTEM.Areas.PaiedAndRemainingMonr.EditSolfaClientForm.resources
+E:\Projects\New folder (2)\CASHIR SYSTEM\CASHIR SYSTEM\CASHIR SYSTEM\obj\Debug\CASHIR_SYSTEM.Areas.PaiedAndRemainingMonr.LaterPaymentOrderDetails.resources
+E:\Projects\New folder (2)\CASHIR SYSTEM\CASHIR SYSTEM\CASHIR SYSTEM\obj\Debug\CASHIR_SYSTEM.Areas.PaiedAndRemainingMonr.Late_paymentOrderMony.resources
+E:\Projects\New folder (2)\CASHIR SYSTEM\CASHIR SYSTEM\CASHIR SYSTEM\obj\Debug\CASHIR_SYSTEM.Areas.PaiedAndRemainingMonr.paiedSolfaPartForm.resources
+E:\Projects\New folder (2)\CASHIR SYSTEM\CASHIR SYSTEM\CASHIR SYSTEM\obj\Debug\CASHIR_SYSTEM.Areas.PaiedAndRemainingMonr.payMonyPart.resources
+E:\Projects\New folder (2)\CASHIR SYSTEM\CASHIR SYSTEM\CASHIR SYSTEM\obj\Debug\CASHIR_SYSTEM.Areas.PaiedAndRemainingMonr.solfaClientForm.resources
+E:\Projects\New folder (2)\CASHIR SYSTEM\CASHIR SYSTEM\CASHIR SYSTEM\obj\Debug\CASHIR_SYSTEM.Areas.PaiedAndRemainingMonr.solfaDetailsClientForm.resources
+E:\Projects\New folder (2)\CASHIR SYSTEM\CASHIR SYSTEM\CASHIR SYSTEM\obj\Debug\CASHIR_SYSTEM.Form1.resources
+E:\Projects\New folder (2)\CASHIR SYSTEM\CASHIR SYSTEM\CASHIR SYSTEM\obj\Debug\CASHIR_SYSTEM.LoginForm.resources
+E:\Projects\New folder (2)\CASHIR SYSTEM\CASHIR SYSTEM\CASHIR SYSTEM\obj\Debug\CASHIR_SYSTEM.Properties.Resources.resources
+E:\Projects\New folder (2)\CASHIR SYSTEM\CASHIR SYSTEM\CASHIR SYSTEM\obj\Debug\CASHIR SYSTEM.csproj.GenerateResource.cache
+E:\Projects\New folder (2)\CASHIR SYSTEM\CASHIR SYSTEM\CASHIR SYSTEM\obj\Debug\CASHIR SYSTEM.csproj.CoreCompileInputs.cache
+E:\Projects\New folder (2)\CASHIR SYSTEM\CASHIR SYSTEM\CASHIR SYSTEM\obj\Debug\CASHIR SYSTEM.csproj.CopyComplete
+E:\Projects\New folder (2)\CASHIR SYSTEM\CASHIR SYSTEM\CASHIR SYSTEM\obj\Debug\CASHIR SYSTEM.exe
+E:\Projects\New folder (2)\CASHIR SYSTEM\CASHIR SYSTEM\CASHIR SYSTEM\obj\Debug\CASHIR SYSTEM.pdb
+E:\Projects\New folder (2)\CASHIR SYSTEM\CASHIR SYSTEM\CASHIR SYSTEM\obj\Debug\CASHIR_SYSTEM.Migrations.InitialCreate.resources
+E:\Projects\New folder (2)\CASHIR SYSTEM\CASHIR SYSTEM\CASHIR SYSTEM\obj\Debug\CASHIR_SYSTEM.Migrations.a.resources
+E:\Projects\New folder (2)\CASHIR SYSTEM\CASHIR SYSTEM\CASHIR SYSTEM\obj\Debug\CASHIR_SYSTEM.Areas.Orders.OrderForms.TableOrder.resources
+E:\Projects\New folder (2)\CASHIR SYSTEM\CASHIR SYSTEM\CASHIR SYSTEM\obj\Debug\CASHIR_SYSTEM.Areas.Orders.OrderForms.TableSizeQtty.resources
+E:\Projects\New folder (2)\CASHIR SYSTEM\CASHIR SYSTEM\CASHIR SYSTEM\obj\Debug\CASHIR_SYSTEM.Migrations._as.resources
+D:\corses\kero Adel Project\CASHIR SYSTEM\CASHIR_SYSTEM_Update\CASHIR_SYSTEM_Update\CASHIR SYSTEM\bin\Debug\CASHIR SYSTEM.exe.config
+D:\corses\kero Adel Project\CASHIR SYSTEM\CASHIR_SYSTEM_Update\CASHIR_SYSTEM_Update\CASHIR SYSTEM\bin\Debug\CASHIR SYSTEM.exe
+D:\corses\kero Adel Project\CASHIR SYSTEM\CASHIR_SYSTEM_Update\CASHIR_SYSTEM_Update\CASHIR SYSTEM\bin\Debug\CASHIR SYSTEM.pdb
+D:\corses\kero Adel Project\CASHIR SYSTEM\CASHIR_SYSTEM_Update\CASHIR_SYSTEM_Update\CASHIR SYSTEM\bin\Debug\EntityFramework.dll
+D:\corses\kero Adel Project\CASHIR SYSTEM\CASHIR_SYSTEM_Update\CASHIR_SYSTEM_Update\CASHIR SYSTEM\bin\Debug\EntityFramework.SqlServer.dll
+D:\corses\kero Adel Project\CASHIR SYSTEM\CASHIR_SYSTEM_Update\CASHIR_SYSTEM_Update\CASHIR SYSTEM\bin\Debug\Mina.UI_WinForm.dll
+D:\corses\kero Adel Project\CASHIR SYSTEM\CASHIR_SYSTEM_Update\CASHIR_SYSTEM_Update\CASHIR SYSTEM\bin\Debug\EntityFramework.xml
+D:\corses\kero Adel Project\CASHIR SYSTEM\CASHIR_SYSTEM_Update\CASHIR_SYSTEM_Update\CASHIR SYSTEM\bin\Debug\EntityFramework.SqlServer.xml
+D:\corses\kero Adel Project\CASHIR SYSTEM\CASHIR_SYSTEM_Update\CASHIR_SYSTEM_Update\CASHIR SYSTEM\obj\Debug\CASHIR SYSTEM.csprojAssemblyReference.cache
+D:\corses\kero Adel Project\CASHIR SYSTEM\CASHIR_SYSTEM_Update\CASHIR_SYSTEM_Update\CASHIR SYSTEM\obj\Debug\CASHIR_SYSTEM.Areas.Clients.AddClientForm.resources
+D:\corses\kero Adel Project\CASHIR SYSTEM\CASHIR_SYSTEM_Update\CASHIR_SYSTEM_Update\CASHIR SYSTEM\obj\Debug\CASHIR_SYSTEM.Areas.Clients.ClientSearchForm.resources
+D:\corses\kero Adel Project\CASHIR SYSTEM\CASHIR_SYSTEM_Update\CASHIR_SYSTEM_Update\CASHIR SYSTEM\obj\Debug\CASHIR_SYSTEM.Areas.Clients.EditClientForm.resources
+D:\corses\kero Adel Project\CASHIR SYSTEM\CASHIR_SYSTEM_Update\CASHIR_SYSTEM_Update\CASHIR SYSTEM\obj\Debug\CASHIR_SYSTEM.Areas.Meals.forms.AddCategory.resources
+D:\corses\kero Adel Project\CASHIR SYSTEM\CASHIR_SYSTEM_Update\CASHIR_SYSTEM_Update\CASHIR SYSTEM\obj\Debug\CASHIR_SYSTEM.Areas.Meals.forms.AddFoodItem.resources
+D:\corses\kero Adel Project\CASHIR SYSTEM\CASHIR_SYSTEM_Update\CASHIR_SYSTEM_Update\CASHIR SYSTEM\obj\Debug\CASHIR_SYSTEM.Areas.Order.AddOrder.resources
+D:\corses\kero Adel Project\CASHIR SYSTEM\CASHIR_SYSTEM_Update\CASHIR_SYSTEM_Update\CASHIR SYSTEM\obj\Debug\CASHIR_SYSTEM.Areas.Orders.OrderForms.AddSizeQtty.resources
+D:\corses\kero Adel Project\CASHIR SYSTEM\CASHIR_SYSTEM_Update\CASHIR_SYSTEM_Update\CASHIR SYSTEM\obj\Debug\CASHIR_SYSTEM.Areas.Orders.OrderForms.TableSizeQtty.resources
+D:\corses\kero Adel Project\CASHIR SYSTEM\CASHIR_SYSTEM_Update\CASHIR_SYSTEM_Update\CASHIR SYSTEM\obj\Debug\CASHIR_SYSTEM.Areas.Orders.OrderForms.TableOrder.resources
+D:\corses\kero Adel Project\CASHIR SYSTEM\CASHIR_SYSTEM_Update\CASHIR_SYSTEM_Update\CASHIR SYSTEM\obj\Debug\CASHIR_SYSTEM.Areas.Orders.Tables.resources
+D:\corses\kero Adel Project\CASHIR SYSTEM\CASHIR_SYSTEM_Update\CASHIR_SYSTEM_Update\CASHIR SYSTEM\obj\Debug\CASHIR_SYSTEM.Areas.PaiedAndRemainingMonr.AddNewSolfa.resources
+D:\corses\kero Adel Project\CASHIR SYSTEM\CASHIR_SYSTEM_Update\CASHIR_SYSTEM_Update\CASHIR SYSTEM\obj\Debug\CASHIR_SYSTEM.Areas.PaiedAndRemainingMonr.AllLatrrPaimentClients.resources
+D:\corses\kero Adel Project\CASHIR SYSTEM\CASHIR_SYSTEM_Update\CASHIR_SYSTEM_Update\CASHIR SYSTEM\obj\Debug\CASHIR_SYSTEM.Areas.PaiedAndRemainingMonr.AllsolfaClient.resources
+D:\corses\kero Adel Project\CASHIR SYSTEM\CASHIR_SYSTEM_Update\CASHIR_SYSTEM_Update\CASHIR SYSTEM\obj\Debug\CASHIR_SYSTEM.Areas.PaiedAndRemainingMonr.EditClientinfo.resources
+D:\corses\kero Adel Project\CASHIR SYSTEM\CASHIR_SYSTEM_Update\CASHIR_SYSTEM_Update\CASHIR SYSTEM\obj\Debug\CASHIR_SYSTEM.Areas.PaiedAndRemainingMonr.EditSolfaClientForm.resources
+D:\corses\kero Adel Project\CASHIR SYSTEM\CASHIR_SYSTEM_Update\CASHIR_SYSTEM_Update\CASHIR SYSTEM\obj\Debug\CASHIR_SYSTEM.Areas.PaiedAndRemainingMonr.LaterPaymentOrderDetails.resources
+D:\corses\kero Adel Project\CASHIR SYSTEM\CASHIR_SYSTEM_Update\CASHIR_SYSTEM_Update\CASHIR SYSTEM\obj\Debug\CASHIR_SYSTEM.Areas.PaiedAndRemainingMonr.Late_paymentOrderMony.resources
+D:\corses\kero Adel Project\CASHIR SYSTEM\CASHIR_SYSTEM_Update\CASHIR_SYSTEM_Update\CASHIR SYSTEM\obj\Debug\CASHIR_SYSTEM.Areas.PaiedAndRemainingMonr.paiedSolfaPartForm.resources
+D:\corses\kero Adel Project\CASHIR SYSTEM\CASHIR_SYSTEM_Update\CASHIR_SYSTEM_Update\CASHIR SYSTEM\obj\Debug\CASHIR_SYSTEM.Areas.PaiedAndRemainingMonr.payIfUserExists.resources
+D:\corses\kero Adel Project\CASHIR SYSTEM\CASHIR_SYSTEM_Update\CASHIR_SYSTEM_Update\CASHIR SYSTEM\obj\Debug\CASHIR_SYSTEM.Areas.PaiedAndRemainingMonr.payMonyPart.resources
+D:\corses\kero Adel Project\CASHIR SYSTEM\CASHIR_SYSTEM_Update\CASHIR_SYSTEM_Update\CASHIR SYSTEM\obj\Debug\CASHIR_SYSTEM.Areas.PaiedAndRemainingMonr.solfaClientForm.resources
+D:\corses\kero Adel Project\CASHIR SYSTEM\CASHIR_SYSTEM_Update\CASHIR_SYSTEM_Update\CASHIR SYSTEM\obj\Debug\CASHIR_SYSTEM.Areas.PaiedAndRemainingMonr.solfaDetailsClientForm.resources
+D:\corses\kero Adel Project\CASHIR SYSTEM\CASHIR_SYSTEM_Update\CASHIR_SYSTEM_Update\CASHIR SYSTEM\obj\Debug\CASHIR_SYSTEM.Form1.resources
+D:\corses\kero Adel Project\CASHIR SYSTEM\CASHIR_SYSTEM_Update\CASHIR_SYSTEM_Update\CASHIR SYSTEM\obj\Debug\CASHIR_SYSTEM.LoginForm.resources
+D:\corses\kero Adel Project\CASHIR SYSTEM\CASHIR_SYSTEM_Update\CASHIR_SYSTEM_Update\CASHIR SYSTEM\obj\Debug\CASHIR_SYSTEM.Properties.Resources.resources
+D:\corses\kero Adel Project\CASHIR SYSTEM\CASHIR_SYSTEM_Update\CASHIR_SYSTEM_Update\CASHIR SYSTEM\obj\Debug\CASHIR SYSTEM.csproj.GenerateResource.cache
+D:\corses\kero Adel Project\CASHIR SYSTEM\CASHIR_SYSTEM_Update\CASHIR_SYSTEM_Update\CASHIR SYSTEM\obj\Debug\CASHIR SYSTEM.csproj.CoreCompileInputs.cache
+D:\corses\kero Adel Project\CASHIR SYSTEM\CASHIR_SYSTEM_Update\CASHIR_SYSTEM_Update\CASHIR SYSTEM\obj\Debug\CASHIR SYSTEM.csproj.CopyComplete
+D:\corses\kero Adel Project\CASHIR SYSTEM\CASHIR_SYSTEM_Update\CASHIR_SYSTEM_Update\CASHIR SYSTEM\obj\Debug\CASHIR SYSTEM.exe
+D:\corses\kero Adel Project\CASHIR SYSTEM\CASHIR_SYSTEM_Update\CASHIR_SYSTEM_Update\CASHIR SYSTEM\obj\Debug\CASHIR SYSTEM.pdb
+D:\corses\kero Adel Project\CASHIR SYSTEM\CASHIR_SYSTEM_Update\CASHIR_SYSTEM_Update\CASHIR SYSTEM\obj\Debug\CASHIR_SYSTEM.Areas.PaiedAndRemainingMonr.ShowClientPrevousOrder.resources
+D:\corses\kero Adel Project\CASHIR SYSTEM\CASHIR_SYSTEM_Update\CASHIR_SYSTEM_Update\CASHIR SYSTEM\obj\Debug\CASHIR_SYSTEM.Areas.Orders.OrderForms.gardForm.resources
+D:\corses\kero Adel Project\CASHIR SYSTEM\CASHIR_SYSTEM_Update\CASHIR_SYSTEM_Update\CASHIR SYSTEM\obj\Debug\CASHIR_SYSTEM.Migrations.asd.resources
+D:\corses\kero Adel Project\CASHIR SYSTEM\CASHIR_SYSTEM_Update\CASHIR_SYSTEM_Update\CASHIR SYSTEM\obj\Debug\CASHIR_SYSTEM.Migrations.aa.resources
+E:\Projects\New folder (2)\CASHIR_SYSTEM_Update\CASHIR SYSTEM\bin\Debug\CASHIR SYSTEM.exe.config
+E:\Projects\New folder (2)\CASHIR_SYSTEM_Update\CASHIR SYSTEM\bin\Debug\CASHIR SYSTEM.exe
+E:\Projects\New folder (2)\CASHIR_SYSTEM_Update\CASHIR SYSTEM\bin\Debug\CASHIR SYSTEM.pdb
+E:\Projects\New folder (2)\CASHIR_SYSTEM_Update\CASHIR SYSTEM\bin\Debug\EntityFramework.dll
+E:\Projects\New folder (2)\CASHIR_SYSTEM_Update\CASHIR SYSTEM\bin\Debug\EntityFramework.SqlServer.dll
+E:\Projects\New folder (2)\CASHIR_SYSTEM_Update\CASHIR SYSTEM\bin\Debug\Mina.UI_WinForm.dll
+E:\Projects\New folder (2)\CASHIR_SYSTEM_Update\CASHIR SYSTEM\bin\Debug\EntityFramework.xml
+E:\Projects\New folder (2)\CASHIR_SYSTEM_Update\CASHIR SYSTEM\bin\Debug\EntityFramework.SqlServer.xml
+E:\Projects\New folder (2)\CASHIR_SYSTEM_Update\CASHIR SYSTEM\obj\Debug\CASHIR SYSTEM.csprojAssemblyReference.cache
+E:\Projects\New folder (2)\CASHIR_SYSTEM_Update\CASHIR SYSTEM\obj\Debug\CASHIR_SYSTEM.Areas.Clients.AddClientForm.resources
+E:\Projects\New folder (2)\CASHIR_SYSTEM_Update\CASHIR SYSTEM\obj\Debug\CASHIR_SYSTEM.Areas.Clients.ClientSearchForm.resources
+E:\Projects\New folder (2)\CASHIR_SYSTEM_Update\CASHIR SYSTEM\obj\Debug\CASHIR_SYSTEM.Areas.Clients.EditClientForm.resources
+E:\Projects\New folder (2)\CASHIR_SYSTEM_Update\CASHIR SYSTEM\obj\Debug\CASHIR_SYSTEM.Areas.Meals.forms.AddCategory.resources
+E:\Projects\New folder (2)\CASHIR_SYSTEM_Update\CASHIR SYSTEM\obj\Debug\CASHIR_SYSTEM.Areas.Meals.forms.AddFoodItem.resources
+E:\Projects\New folder (2)\CASHIR_SYSTEM_Update\CASHIR SYSTEM\obj\Debug\CASHIR_SYSTEM.Areas.Order.AddOrder.resources
+E:\Projects\New folder (2)\CASHIR_SYSTEM_Update\CASHIR SYSTEM\obj\Debug\CASHIR_SYSTEM.Areas.Orders.OrderForms.AddSizeQtty.resources
+E:\Projects\New folder (2)\CASHIR_SYSTEM_Update\CASHIR SYSTEM\obj\Debug\CASHIR_SYSTEM.Areas.Orders.OrderForms.gardForm.resources
+E:\Projects\New folder (2)\CASHIR_SYSTEM_Update\CASHIR SYSTEM\obj\Debug\CASHIR_SYSTEM.Areas.Orders.OrderForms.TableSizeQtty.resources
+E:\Projects\New folder (2)\CASHIR_SYSTEM_Update\CASHIR SYSTEM\obj\Debug\CASHIR_SYSTEM.Areas.Orders.OrderForms.TableOrder.resources
+E:\Projects\New folder (2)\CASHIR_SYSTEM_Update\CASHIR SYSTEM\obj\Debug\CASHIR_SYSTEM.Areas.Orders.Tables.resources
+E:\Projects\New folder (2)\CASHIR_SYSTEM_Update\CASHIR SYSTEM\obj\Debug\CASHIR_SYSTEM.Areas.PaiedAndRemainingMonr.AddNewSolfa.resources
+E:\Projects\New folder (2)\CASHIR_SYSTEM_Update\CASHIR SYSTEM\obj\Debug\CASHIR_SYSTEM.Areas.PaiedAndRemainingMonr.AllLatrrPaimentClients.resources
+E:\Projects\New folder (2)\CASHIR_SYSTEM_Update\CASHIR SYSTEM\obj\Debug\CASHIR_SYSTEM.Areas.PaiedAndRemainingMonr.AllsolfaClient.resources
+E:\Projects\New folder (2)\CASHIR_SYSTEM_Update\CASHIR SYSTEM\obj\Debug\CASHIR_SYSTEM.Areas.PaiedAndRemainingMonr.EditClientinfo.resources
+E:\Projects\New folder (2)\CASHIR_SYSTEM_Update\CASHIR SYSTEM\obj\Debug\CASHIR_SYSTEM.Areas.PaiedAndRemainingMonr.EditSolfaClientForm.resources
+E:\Projects\New folder (2)\CASHIR_SYSTEM_Update\CASHIR SYSTEM\obj\Debug\CASHIR_SYSTEM.Areas.PaiedAndRemainingMonr.LaterPaymentOrderDetails.resources
+E:\Projects\New folder (2)\CASHIR_SYSTEM_Update\CASHIR SYSTEM\obj\Debug\CASHIR_SYSTEM.Areas.PaiedAndRemainingMonr.Late_paymentOrderMony.resources
+E:\Projects\New folder (2)\CASHIR_SYSTEM_Update\CASHIR SYSTEM\obj\Debug\CASHIR_SYSTEM.Areas.PaiedAndRemainingMonr.paiedSolfaPartForm.resources
+E:\Projects\New folder (2)\CASHIR_SYSTEM_Update\CASHIR SYSTEM\obj\Debug\CASHIR_SYSTEM.Areas.PaiedAndRemainingMonr.payIfUserExists.resources
+E:\Projects\New folder (2)\CASHIR_SYSTEM_Update\CASHIR SYSTEM\obj\Debug\CASHIR_SYSTEM.Areas.PaiedAndRemainingMonr.payMonyPart.resources
+E:\Projects\New folder (2)\CASHIR_SYSTEM_Update\CASHIR SYSTEM\obj\Debug\CASHIR_SYSTEM.Areas.PaiedAndRemainingMonr.ShowClientPrevousOrder.resources
+E:\Projects\New folder (2)\CASHIR_SYSTEM_Update\CASHIR SYSTEM\obj\Debug\CASHIR_SYSTEM.Areas.PaiedAndRemainingMonr.solfaClientForm.resources
+E:\Projects\New folder (2)\CASHIR_SYSTEM_Update\CASHIR SYSTEM\obj\Debug\CASHIR_SYSTEM.Areas.PaiedAndRemainingMonr.solfaDetailsClientForm.resources
+E:\Projects\New folder (2)\CASHIR_SYSTEM_Update\CASHIR SYSTEM\obj\Debug\CASHIR_SYSTEM.Form1.resources
+E:\Projects\New folder (2)\CASHIR_SYSTEM_Update\CASHIR SYSTEM\obj\Debug\CASHIR_SYSTEM.LoginForm.resources
+E:\Projects\New folder (2)\CASHIR_SYSTEM_Update\CASHIR SYSTEM\obj\Debug\CASHIR_SYSTEM.Properties.Resources.resources
+E:\Projects\New folder (2)\CASHIR_SYSTEM_Update\CASHIR SYSTEM\obj\Debug\CASHIR SYSTEM.csproj.GenerateResource.cache
+E:\Projects\New folder (2)\CASHIR_SYSTEM_Update\CASHIR SYSTEM\obj\Debug\CASHIR SYSTEM.csproj.CoreCompileInputs.cache
+E:\Projects\New folder (2)\CASHIR_SYSTEM_Update\CASHIR SYSTEM\obj\Debug\CASHIR SYSTEM.csproj.CopyComplete
+E:\Projects\New folder (2)\CASHIR_SYSTEM_Update\CASHIR SYSTEM\obj\Debug\CASHIR SYSTEM.exe
+E:\Projects\New folder (2)\CASHIR_SYSTEM_Update\CASHIR SYSTEM\obj\Debug\CASHIR SYSTEM.pdb
+E:\Projects\New folder (2)\CASHIR_SYSTEM_Update\CASHIR SYSTEM\obj\Debug\CASHIR_SYSTEM.Migrations.sss.resources
+E:\Projects\New folder (2)\CASHIR_SYSTEM_Update\CASHIR SYSTEM\obj\Debug\CASHIR_SYSTEM.Migrations.sf.resources
+E:\Projects\New folder (2)\CASHIR_SYSTEM_Update\CASHIR SYSTEM\obj\Debug\CASHIR_SYSTEM.Migrations.sfv.resources
+E:\Projects\New folder (2)\CASHIR_SYSTEM_Update\CASHIR SYSTEM\obj\Debug\CASHIR_SYSTEM.Migrations.svdf.resources
+E:\Projects\New folder (2)\CASHIR_SYSTEM_Update\CASHIR SYSTEM\obj\Debug\CASHIR_SYSTEM.Migrations.svdff.resources
+E:\Projects\New folder (2)\CASHIR_SYSTEM_Update\CASHIR SYSTEM\obj\Debug\CASHIR_SYSTEM.Migrations.addf.resources
+E:\Projects\New folder (2)\CASHIR_SYSTEM_Update\CASHIR SYSTEM\obj\Debug\CASHIR_SYSTEM.Migrations.adac.resources
+E:\Projects\New folder (2)\CASHIR_SYSTEM_Update\CASHIR SYSTEM\obj\Debug\CASHIR_SYSTEM.Migrations.dcas.resources
+E:\Projects\New folder (2)\CASHIR_SYSTEM_Update\CASHIR SYSTEM\obj\Debug\CASHIR_SYSTEM.Migrations.bfsd.resources
+E:\Projects\New folder (2)\CASHIR_SYSTEM_Update\CASHIR SYSTEM\obj\Debug\CASHIR_SYSTEM.Migrations.ndf.resources

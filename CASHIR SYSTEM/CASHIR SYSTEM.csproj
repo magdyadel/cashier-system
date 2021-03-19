@@ -1,0 +1,424 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\EntityFramework.6.4.4\build\EntityFramework.props" Condition="Exists('..\packages\EntityFramework.6.4.4\build\EntityFramework.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{C8A94CEC-2E71-42E6-9E06-29894D914A7A}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>CASHIR_SYSTEM</RootNamespace>
+    <AssemblyName>CASHIR SYSTEM</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.4.4\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.4.4\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="Mina.UI_WinForm, Version=1.0.0.3, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\MinaUI.2.0.1\lib\net472\Mina.UI_WinForm.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ApplicationDbContext.cs" />
+    <Compile Include="Areas\ClientsArea\AddClientForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Areas\ClientsArea\AddClientForm.Designer.cs">
+      <DependentUpon>AddClientForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Areas\ClientsArea\Clients.cs" />
+    <Compile Include="Areas\ClientsArea\ClientSearchForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Areas\ClientsArea\ClientSearchForm.Designer.cs">
+      <DependentUpon>ClientSearchForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Areas\ClientsArea\EditClientForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Areas\ClientsArea\EditClientForm.Designer.cs">
+      <DependentUpon>EditClientForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Areas\Meals\FoodCategory.cs" />
+    <Compile Include="Areas\Meals\FoodItems.cs" />
+    <Compile Include="Areas\Meals\FoodItemsConfig.cs" />
+    <Compile Include="Areas\Meals\MealForms\AddCategory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Areas\Meals\MealForms\AddCategory.Designer.cs">
+      <DependentUpon>AddCategory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Areas\Meals\MealForms\AddFoodItem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Areas\Meals\MealForms\AddFoodItem.Designer.cs">
+      <DependentUpon>AddFoodItem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Areas\Orders\ByTables.cs" />
+    <Compile Include="Areas\Orders\GetOrder.cs" />
+    <Compile Include="Areas\Orders\OrderForms\AddOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Areas\Orders\OrderForms\AddOrder.Designer.cs">
+      <DependentUpon>AddOrder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Areas\Orders\OrderForms\AddSizeQtty.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Areas\Orders\OrderForms\AddSizeQtty.Designer.cs">
+      <DependentUpon>AddSizeQtty.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Areas\Orders\OrderForms\gardForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Areas\Orders\OrderForms\gardForm.Designer.cs">
+      <DependentUpon>gardForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Areas\Orders\OrderForms\LaterPaiedOrderItem.cs" />
+    <Compile Include="Areas\Orders\OrderForms\LaterPayedOrder.cs" />
+    <Compile Include="Areas\Orders\OrderForms\TableSizeQtty.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Areas\Orders\OrderForms\TableSizeQtty.Designer.cs">
+      <DependentUpon>TableSizeQtty.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Areas\Orders\OrderForms\TableOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Areas\Orders\OrderForms\TableOrder.Designer.cs">
+      <DependentUpon>TableOrder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Areas\Orders\OrderForms\Tables.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Areas\Orders\OrderForms\Tables.Designer.cs">
+      <DependentUpon>Tables.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Areas\Orders\OrderItems.cs" />
+    <Compile Include="Areas\PaiedAndRemainingMonr\AddNewSolfa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Areas\PaiedAndRemainingMonr\AddNewSolfa.Designer.cs">
+      <DependentUpon>AddNewSolfa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Areas\PaiedAndRemainingMonr\AllLatrrPaimentClients.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Areas\PaiedAndRemainingMonr\AllLatrrPaimentClients.Designer.cs">
+      <DependentUpon>AllLatrrPaimentClients.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Areas\PaiedAndRemainingMonr\AllsolfaClient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Areas\PaiedAndRemainingMonr\AllsolfaClient.Designer.cs">
+      <DependentUpon>AllsolfaClient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Areas\PaiedAndRemainingMonr\EditClientinfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Areas\PaiedAndRemainingMonr\EditClientinfo.Designer.cs">
+      <DependentUpon>EditClientinfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Areas\PaiedAndRemainingMonr\EditSolfaClientForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Areas\PaiedAndRemainingMonr\EditSolfaClientForm.Designer.cs">
+      <DependentUpon>EditSolfaClientForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Areas\PaiedAndRemainingMonr\OrderMoneAndDate.cs" />
+    <Compile Include="Areas\PaiedAndRemainingMonr\LaterPaymentOrderDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Areas\PaiedAndRemainingMonr\LaterPaymentOrderDetails.Designer.cs">
+      <DependentUpon>LaterPaymentOrderDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Areas\PaiedAndRemainingMonr\Late_paymentOrderMony.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Areas\PaiedAndRemainingMonr\Late_paymentOrderMony.Designer.cs">
+      <DependentUpon>Late_paymentOrderMony.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Areas\PaiedAndRemainingMonr\ClientLaterPaymentinfo.cs" />
+    <Compile Include="Areas\PaiedAndRemainingMonr\paiedSolfaPartForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Areas\PaiedAndRemainingMonr\paiedSolfaPartForm.Designer.cs">
+      <DependentUpon>paiedSolfaPartForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Areas\PaiedAndRemainingMonr\PartsOfPayedMony.cs" />
+    <Compile Include="Areas\PaiedAndRemainingMonr\payIfUserExists.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Areas\PaiedAndRemainingMonr\payIfUserExists.Designer.cs">
+      <DependentUpon>payIfUserExists.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Areas\PaiedAndRemainingMonr\payMonyPart.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Areas\PaiedAndRemainingMonr\payMonyPart.Designer.cs">
+      <DependentUpon>payMonyPart.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Areas\PaiedAndRemainingMonr\ShowClientPrevousOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Areas\PaiedAndRemainingMonr\ShowClientPrevousOrder.Designer.cs">
+      <DependentUpon>ShowClientPrevousOrder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Areas\PaiedAndRemainingMonr\SolfaClientClass.cs" />
+    <Compile Include="Areas\PaiedAndRemainingMonr\SolfaClientDetailsClass.cs" />
+    <Compile Include="Areas\PaiedAndRemainingMonr\solfaClientForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Areas\PaiedAndRemainingMonr\solfaClientForm.Designer.cs">
+      <DependentUpon>solfaClientForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Areas\PaiedAndRemainingMonr\solfaDetailsClientForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Areas\PaiedAndRemainingMonr\solfaDetailsClientForm.Designer.cs">
+      <DependentUpon>solfaDetailsClientForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Areas\PaiedAndRemainingMonr\solfaPartsofPayment.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="login.cs" />
+    <Compile Include="LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoginForm.Designer.cs">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LogInManager.cs" />
+    <Compile Include="Migrations\202010101659084_sss.cs" />
+    <Compile Include="Migrations\202010101659084_sss.designer.cs">
+      <DependentUpon>202010101659084_sss.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202010110615567_sf.cs" />
+    <Compile Include="Migrations\202010110615567_sf.designer.cs">
+      <DependentUpon>202010110615567_sf.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202010110623447_sfv.cs" />
+    <Compile Include="Migrations\202010110623447_sfv.designer.cs">
+      <DependentUpon>202010110623447_sfv.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202010111340347_svdf.cs" />
+    <Compile Include="Migrations\202010111340347_svdf.designer.cs">
+      <DependentUpon>202010111340347_svdf.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202010111348348_svdff.cs" />
+    <Compile Include="Migrations\202010111348348_svdff.designer.cs">
+      <DependentUpon>202010111348348_svdff.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202010111507210_addf.cs" />
+    <Compile Include="Migrations\202010111507210_addf.designer.cs">
+      <DependentUpon>202010111507210_addf.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202010111514036_adac.cs" />
+    <Compile Include="Migrations\202010111514036_adac.designer.cs">
+      <DependentUpon>202010111514036_adac.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202010111521318_dcas.cs" />
+    <Compile Include="Migrations\202010111521318_dcas.designer.cs">
+      <DependentUpon>202010111521318_dcas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202010111646395_bfsd.cs" />
+    <Compile Include="Migrations\202010111646395_bfsd.designer.cs">
+      <DependentUpon>202010111646395_bfsd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202010130756057_ndf.cs" />
+    <Compile Include="Migrations\202010130756057_ndf.designer.cs">
+      <DependentUpon>202010130756057_ndf.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\Configuration.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Services\Actions.cs" />
+    <EmbeddedResource Include="Areas\ClientsArea\AddClientForm.resx">
+      <DependentUpon>AddClientForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Areas\ClientsArea\ClientSearchForm.resx">
+      <DependentUpon>ClientSearchForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Areas\ClientsArea\EditClientForm.resx">
+      <DependentUpon>EditClientForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Areas\Meals\MealForms\AddCategory.resx">
+      <DependentUpon>AddCategory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Areas\Meals\MealForms\AddFoodItem.resx">
+      <DependentUpon>AddFoodItem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Areas\Orders\OrderForms\AddOrder.resx">
+      <DependentUpon>AddOrder.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Areas\Orders\OrderForms\AddSizeQtty.resx">
+      <DependentUpon>AddSizeQtty.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Areas\Orders\OrderForms\gardForm.resx">
+      <DependentUpon>gardForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Areas\Orders\OrderForms\TableSizeQtty.resx">
+      <DependentUpon>TableSizeQtty.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Areas\Orders\OrderForms\TableOrder.resx">
+      <DependentUpon>TableOrder.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Areas\Orders\OrderForms\Tables.resx">
+      <DependentUpon>Tables.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Areas\PaiedAndRemainingMonr\AddNewSolfa.resx">
+      <DependentUpon>AddNewSolfa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Areas\PaiedAndRemainingMonr\AllLatrrPaimentClients.resx">
+      <DependentUpon>AllLatrrPaimentClients.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Areas\PaiedAndRemainingMonr\AllsolfaClient.resx">
+      <DependentUpon>AllsolfaClient.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Areas\PaiedAndRemainingMonr\EditClientinfo.resx">
+      <DependentUpon>EditClientinfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Areas\PaiedAndRemainingMonr\EditSolfaClientForm.resx">
+      <DependentUpon>EditSolfaClientForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Areas\PaiedAndRemainingMonr\LaterPaymentOrderDetails.resx">
+      <DependentUpon>LaterPaymentOrderDetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Areas\PaiedAndRemainingMonr\Late_paymentOrderMony.resx">
+      <DependentUpon>Late_paymentOrderMony.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Areas\PaiedAndRemainingMonr\paiedSolfaPartForm.resx">
+      <DependentUpon>paiedSolfaPartForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Areas\PaiedAndRemainingMonr\payIfUserExists.resx">
+      <DependentUpon>payIfUserExists.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Areas\PaiedAndRemainingMonr\payMonyPart.resx">
+      <DependentUpon>payMonyPart.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Areas\PaiedAndRemainingMonr\ShowClientPrevousOrder.resx">
+      <DependentUpon>ShowClientPrevousOrder.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Areas\PaiedAndRemainingMonr\solfaClientForm.resx">
+      <DependentUpon>solfaClientForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Areas\PaiedAndRemainingMonr\solfaDetailsClientForm.resx">
+      <DependentUpon>solfaDetailsClientForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoginForm.resx">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202010101659084_sss.resx">
+      <DependentUpon>202010101659084_sss.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202010110615567_sf.resx">
+      <DependentUpon>202010110615567_sf.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202010110623447_sfv.resx">
+      <DependentUpon>202010110623447_sfv.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202010111340347_svdf.resx">
+      <DependentUpon>202010111340347_svdf.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202010111348348_svdff.resx">
+      <DependentUpon>202010111348348_svdff.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202010111507210_addf.resx">
+      <DependentUpon>202010111507210_addf.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202010111514036_adac.resx">
+      <DependentUpon>202010111514036_adac.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202010111521318_dcas.resx">
+      <DependentUpon>202010111521318_dcas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202010111646395_bfsd.resx">
+      <DependentUpon>202010111646395_bfsd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202010130756057_ndf.resx">
+      <DependentUpon>202010130756057_ndf.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\manager-312603_960_720.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\EntityFramework.6.4.4\build\EntityFramework.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\EntityFramework.6.4.4\build\EntityFramework.props'))" />
+    <Error Condition="!Exists('..\packages\EntityFramework.6.4.4\build\EntityFramework.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\EntityFramework.6.4.4\build\EntityFramework.targets'))" />
+  </Target>
+  <Import Project="..\packages\EntityFramework.6.4.4\build\EntityFramework.targets" Condition="Exists('..\packages\EntityFramework.6.4.4\build\EntityFramework.targets')" />
+</Project>
